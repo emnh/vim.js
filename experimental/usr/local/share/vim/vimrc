@@ -62,3 +62,5 @@ set mouse=
 "set smartindent
 "set cindent 
 set shiftwidth=4
+
+"========== DOM SYNC ==========
